@@ -1,15 +1,16 @@
 Name: The Human Connectome Project
-Description: The Human Connectome Project aims to provide an unparalleled compilation of neural data, an interface to graphically navigate this data and the opportunity to achieve never before realized conclusions about the living human brain.
-Documentation: http://www.humanconnectomeproject.org
+Description: The Human Connectome Project (HCP) Young Adult is a study aimed at enhancing our understanding of human brain structure, function, and connectivity and their relationships to behavior by producing high-quality neuroimaging data and behavioral measures in over 1100 healthy young adults (ages 22-35). 
+ 
+Documentation: http://www.humanconnectome.org; https://www.humanconnectome.org/storage/app/media/documentation/s1200/HCP_S1200_Release_Reference_Manual.pdf
 Contact: hcp-users@humanconnectome.org
-UpdateFrequency: Uncertain
+UpdateFrequency: HCP Young Adult 3T data is complete 
 Tags:
   - aws-pds
   - neuroimaging
   - life sciences
-License: HCP Data Use Agreement available at http://www.humanconnectomeproject.org/wp-content/uploads/2010/01/HCP_Data_Agreement.pdf
+License: HCP Data Use Agreement available at https://www.humanconnectome.org/storage/app/media/data_use_terms/DataUseTerms-HCP-Open-Access-26Apr2013.pdf
 Resources:
-  - Description: https://wiki.humanconnectome.org/display/PublicData/HCP+Data+Release+Updates%3A+Known+Issues+and+Planned+fixes
+  - Description: https://www.humanconnectome.org/storage/app/media/documentation/s1200/HCP_S1200_Release_Reference_Manual.pdf; https://wiki.humanconnectome.org/display/PublicData/HCP+Data+Release+Updates%3A+Known+Issues+and+Planned+fixes
     ARN: arn:aws:s3:::hcp-openaccess
     Region: us-east-1
     Type: S3 Bucket
