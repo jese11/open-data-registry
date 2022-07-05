@@ -1,5 +1,5 @@
 Name: "The Human Connectome Project"
-Description: The Human Connectome Project (HCP Young Adult, HCP-YA) is mapping the healthy human connectome by collecting and freely distributing neuroimaging and behavioral data on 1,200 normal young adults, aged 22-35. 
+Description: The Human Connectome Project (HCP Young Adult, HCP-YA) is mapping the healthy human connectome by collecting and freely distributing neuroimaging and behavioral data on 1,200 young adults, aged 22-35. 
 Documentation: http://www.humanconnectome.org/study/hcp-young-adult/document/1200-subjects-data-release
 Contact: hcp-users@humanconnectome.org
 ManagedBy: '[Connectome Coordination Facility](https://www.humanconnectome.org/ccf-staff)'
@@ -21,11 +21,11 @@ Resources:
     ControlledAccess: https://wiki.humanconnectome.org/display/PublicData/How+To+Connect+to+Connectome+Data+via+AWS
 DataAtWork:
   Tutorials:
-     - Title: "Exploring the Human Connectom"
+     - Title: "Exploring the Human Connectome" Course
        URL: https://store.humanconnectome.org/courses/2019/exploring-the-human-connectome.php
        AuthorName: The Human Connectome Project
   Tools & Applications:
-     - Title: "The Human Connectome Workbench"
+     - Title: "Connectome Workbench"
        URL: https://www.humanconnectome.org/software/connectome-workbench
        AuthorName: The Human Connectome Project
   Publications:
