@@ -21,7 +21,7 @@ Resources:
     ControlledAccess: https://wiki.humanconnectome.org/docs/How%20To%20Connect%20to%20Connectome%20Data%20via%20AWS.html
 DataAtWork:
   Tutorials:
-     - Title: "Exploring the Human Connectom"
+     - Title: "Exploring the Human Connectome"
        URL: https://store.humanconnectome.org/courses/2019/exploring-the-human-connectome.php
        AuthorName: The Human Connectome Project
   Tools & Applications:
